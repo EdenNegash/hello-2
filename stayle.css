@@ -1,8 +1,12 @@
-.container{
+h1{
 
-    text-align: center;
-font-family:creepster;
-font-size: 25px;
-color: red;
+    
+    font-family:creepster;
+    font-size: 25px;
+    color: red;
 }
+.container{
+    text-align: center;
+}
+
 
